@@ -9,7 +9,9 @@
 ## How to Contact me
 📫         contact@mythicalkitten.com
 
-<img align="left" alt="Discord" width="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"/>https://discord.mythicalkitten.com 
+<img align="left" alt="Discord" width="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"/> MythicalKitten#0001 
+
+<img align="left" alt="Discord" width="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"/> https://discord.mythicalkitten.com
 
 ## My Discord Bot Projects
 [Zyplix](https://invite.zyplix.tk)
