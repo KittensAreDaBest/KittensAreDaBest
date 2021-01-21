@@ -1,5 +1,5 @@
 ### Hi There, I'm MythicalKitten and I like Cats.
-[![Website](https://img.shields.io/website?label=mythicalkitten.com&style=for-the-badge&url=https://www.mythicalkitten.com)](https://www.mythicalkitten.com)
+[![Website](https://img.shields.io/website?label=mythicalkitten.com&style=for-the-badge&url=https://www.mythicalkitten.com)](https://www.mythicalkitten.com) # its up but shields.io failes to query it
 
 <img alt="code" width="600px" src="https://cdn.mythicalkitten.com/carbon2.png" />
 
