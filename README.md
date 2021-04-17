@@ -1,5 +1,5 @@
 ### Hi There, I'm MythicalKitten and I like Cats.
-[![Website](https://img.shields.io/website?label=mythicalkitten.com&style=for-the-badge&url=https://www.mythicalkitten.com)](https://www.mythicalkitten.com) # its up but shields.io failes to query it
+[![Website](https://img.shields.io/website?label=mythicalkitten.com&style=for-the-badge&url=https://www.mythicalkitten.com)](https://www.mythicalkitten.com)
 
 <img alt="code" width="600px" src="https://cdn.mythicalkitten.com/carbon2.png" />
 
@@ -17,8 +17,6 @@
 [Zyplix](https://invite.zyplix.tk)
 
 [Kaiser](https://invite-kaiser.mythicalkitten.com)
-
-[Arch](https://top.gg/bot/742831363358589028)
 
 [crafty-discord-bot](https://github.com/KittensAreDaBest/crafty-discord-bot)
 
