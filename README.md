@@ -1,9 +1,11 @@
 ### Hi There, I'm MythicalKitten and I like Cats.
 [![Website](https://img.shields.io/website?label=mythicalkitten.com&style=for-the-badge&url=https://www.mythicalkitten.com)](https://www.mythicalkitten.com)
-
-<img alt="code" width="600px" src="https://cdn.mythicalkitten.com/carbon2.png" />
+<p align="center">
+  <img alt="code" width="600px"  src="https://cdn.mythicalkitten.com/carbon3.png" />
+</p>
 
 ## My Stats
+  
 [![Mythicals's github stats](https://github-readme-stats.vercel.app/api?username=KittensAreDaBest&count_private=true&include_all_commits=true&theme=radical)](https://github.com/KittensAreDaBest)
 
 ## How to Contact me
