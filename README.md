@@ -15,9 +15,9 @@ Discord: MythicalKitten#0001
 Discord Server: https://discord.gg/XkfZMad7gB
 
 ## My Projects
-https://api.mythicalkitten.com - a simple api
+[api.mythicalkitten.com](https://api.mythicalkitten.com) - a simple api
 
-KittenPanel: https://github.com/kittensaredabest/kittenpanel - a client panel for Pterodactyl Panel to allow users to split their resources
+[KittenPanel](https://github.com/kittensaredabest/kittenpanel) - a client panel for Pterodactyl Panel to allow users to split their resources
 
-CattoPro: https://catto.pro - simple private file hosting platform
+[CattoPro](https://catto.pro) - simple private file hosting platform
 
