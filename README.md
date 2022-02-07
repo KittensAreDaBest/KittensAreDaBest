@@ -1,5 +1,5 @@
 ### Hi There, I'm Mythical.
-[![Website](https://img.shields.io/website?label=mythicalkitten.com&style=for-the-badge&url=https://www.mythicalkitten.com)](https://www.mythicalkitten.com)
+[mythicalkitten.com](https://mythicalkitten.com) 
 
 ## My Stats
   
@@ -8,7 +8,7 @@
 [![Mythicals's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KittensAreDaBest&layout=compact&theme=radical)](https://github.com/KittensAreDaBest)
 
 ## How to Contact me
-Email: contact@mythicalkitten.com
+Email: github@kitten.email
 
 Discord: MythicalKitten#0001 
 
