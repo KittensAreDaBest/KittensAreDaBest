@@ -1,5 +1,6 @@
 ### Hi There, I'm Mythical.
-[mythicalkitten.com](https://mythicalkitten.com) 
+<!-- [mythicalkitten.com](https://mythicalkitten.com)  -->
+[![Website](https://img.shields.io/website?label=mythicalkitten.com&style=for-the-badge&url=https://www.mythicalkitten.com)](https://www.mythicalkitten.com)
 
 ## My Stats
   
@@ -19,5 +20,5 @@ Discord Server: https://discord.gg/XkfZMad7gB
 
 [KittenPanel](https://github.com/kittensaredabest/kittenpanel) - a client panel for Pterodactyl Panel to allow users to split their resources
 
-[CattoPro](https://catto.pro) - simple private file hosting platform
+[CattoPictures](https://catto.pictures) - Secure ShareX image hosting with fast uploads and extensive embed customization capabilities.
 
