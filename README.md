@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/website?label=kitten.systems&style=for-the-badge&url=https://kitten.systems)](https://kitten.systems)
 [![Website](https://img.shields.io/website?label=catto.pictures&style=for-the-badge&url=https://catto.pictures)](https://catto.pictures)
 
-<img src="https://lanyard.kitten.rest/api/avatar?force-validate=b" alt="MythicalKitten#0001's current discord status">
+<img src="https://lanyard-app.kitten.systems/api/avatar?force-validate=b" alt="MythicalKitten#0001's current discord status">
 
 ## My Stats
   
