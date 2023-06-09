@@ -19,7 +19,7 @@
 ## How to Contact me
 Email: github@kitten.email
 
-Discord: MythicalKitten#0001 
+Discord: mythicalkitten
 
 Discord Server: https://discord.gg/XkfZMad7gB
 
