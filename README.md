@@ -1,8 +1,6 @@
 ### Hi There, I'm Mythical.
 <!-- [mythicalkitten.com](https://mythicalkitten.com)  -->
 [![Website](https://img.shields.io/website?label=mythicalkitten.com&style=for-the-badge&url=https://mythicalkitten.com)](https://mythicalkitten.com)
-[![Website](https://img.shields.io/website?label=iridiumlytics.com&style=for-the-badge&url=https://iridiumlytics.com)](https://iridiumlytics.com)
-[![Website](https://img.shields.io/website?label=kitten.systems&style=for-the-badge&url=https://kitten.systems)](https://kitten.systems)
 [![Website](https://img.shields.io/website?label=catto.pictures&style=for-the-badge&url=https://catto.pictures)](https://catto.pictures)
 
 <img src="https://lanyard-app.kitten.systems/api/avatar?force-validate=b" alt="MythicalKitten#0001's current discord status">
