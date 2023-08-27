@@ -22,9 +22,6 @@ Discord: mythicalkitten
 Discord Server: https://discord.gg/XkfZMad7gB
 
 ## My Projects
-[api.mythicalkitten.com](https://api.mythicalkitten.com) - a simple api
-
-[Iridiumlytics](https://iridiumlytics.com) - Simple server monitoring as a service to ensure your servers are running smoothly.
-
 [CattoPictures](https://catto.pictures) - Secure ShareX image hosting with fast uploads and extensive embed customization capabilities.
 
+[api.mythicalkitten.com](https://api.mythicalkitten.com) - a simple api
