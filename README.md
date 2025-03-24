@@ -1,9 +1,7 @@
-### Hi There, I'm Mythical.
+### Hey, I'm Mythical.
 <!-- [mythicalkitten.com](https://mythicalkitten.com)  -->
 [![Website](https://img.shields.io/website?label=mythicalkitten.com&style=for-the-badge&url=https://mythicalkitten.com)](https://mythicalkitten.com)
 [![Website](https://img.shields.io/website?label=catto.pictures&style=for-the-badge&url=https://catto.pictures)](https://catto.pictures)
-
-<img src="https://lanyard-app.kitten.systems/api/avatar?force-validate=b" alt="MythicalKitten#0001's current discord status">
 
 ## My Stats
   
@@ -15,7 +13,7 @@
 <img src="https://wakatime.com/share/@30ef04e7-14e2-4bdc-9a72-bdda232f45d3/4893bbe8-bb6b-456f-9483-377b35f51e43.svg" alt="Programming Languages" height="500"/>
 
 ## How to Contact me
-Email: github@kitten.email
+Email: github@mythicalkitten.com
 
 Discord: mythicalkitten
 
